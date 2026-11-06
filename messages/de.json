@@ -1,0 +1,238 @@
+{
+  "Meta": {
+    "siteName": "SensGAi Services",
+    "title": "SensGAi Services",
+    "description": "Verträge vergleichen, Geld sparen und das Leben in Deutschland verstehen. Auf Deutsch und Arabisch."
+  },
+  "Brand": {
+    "name": "SensGAi Services",
+    "parent": "SensGAi, Bonn"
+  },
+  "Common": {
+    "skip": "Zum Inhalt",
+    "linkFollows": "Link folgt",
+    "readMore": "Weiterlesen",
+    "back": "Zurück",
+    "updated": "Stand"
+  },
+  "Nav": {
+    "home": "Start",
+    "vergleiche": "Vergleiche",
+    "ratgeber": "Ratgeber",
+    "wegweiser": "Wegweiser",
+    "anfragen": "Anfragen & Angebote",
+    "menu": "Menü",
+    "close": "Schließen",
+    "main": "Hauptnavigation"
+  },
+  "Language": {
+    "switchTo": "Sprache wechseln",
+    "de": "Deutsch",
+    "ar": "العربية"
+  },
+  "Theme": {
+    "label": "Darstellung",
+    "light": "Hell",
+    "dark": "Dunkel"
+  },
+  "Footer": {
+    "about": "SensGAi Services hilft beim Vergleichen von Alltagsverträgen und erklärt das Leben in Deutschland. SensGAi berät nicht und schließt keine Verträge.",
+    "navigate": "Seiten",
+    "legal": "Rechtliches",
+    "contact": "Kontakt",
+    "city": "Bonn",
+    "email": "E-Mail: Angabe folgt",
+    "ads": "Werbung: Wenn Sie über einen Partner abschließen, kann SensGAi eine Provision erhalten. Für Sie entsteht dadurch kein Aufpreis.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "adsLink": "Werbehinweis",
+    "aboutLink": "Über uns",
+    "contactLink": "Kontakt"
+  },
+  "Home": {
+    "sloganLead": "Wechseln.",
+    "sloganSave": "Sparen.",
+    "sloganEnd": "Entspannen.",
+    "lead": "Vergleichen Sie Strom, Gas, Internet und mehr über Partner. Lesen Sie einfache Erklärungen auf Deutsch und Arabisch.",
+    "ctaCompare": "Vergleiche ansehen",
+    "ctaGuide": "Ratgeber lesen",
+    "pillarsTitle": "Drei Wege",
+    "pillar1Title": "Vergleichen",
+    "pillar1Text": "Sie sehen, welche Angaben ein Partner braucht. Der Abschluss liegt beim Partner.",
+    "pillar2Title": "Verstehen",
+    "pillar2Text": "Kurze Texte erklären Verträge, Behörden und Begriffe.",
+    "pillar3Title": "Hilfe finden",
+    "pillar3Text": "Der Wegweiser zeigt nur Links zu offiziellen Stellen.",
+    "categoriesTitle": "Themen",
+    "categoriesText": "Die Partner-Links sind noch nicht hinterlegt. Sie sehen überall den Hinweis Link folgt.",
+    "allCategories": "Alle Vergleiche",
+    "heroAlt": "Ruhiger Morgen in einer hellen Wohnung.",
+    "pillar1Alt": "Hände halten ein Handy über einem Tisch.",
+    "pillar2Alt": "Eine Person liest in einem hellen Zimmer.",
+    "pillar3Alt": "Ein ruhiger Platz mit alten Häusern."
+  },
+  "Catalog": {
+    "title": "Vergleiche",
+    "lead": "Wählen Sie ein Thema. SensGAi zeigt den Weg zum Partner und erklärt die Wörter.",
+    "open": "Thema öffnen"
+  },
+  "Groups": {
+    "wohnen": "Wohnen",
+    "versicherungen": "Versicherungen",
+    "finanzen": "Finanzen",
+    "reisen": "Reisen",
+    "photoWohnen": "Helle Wohnung mit Sofa und Fenster.",
+    "photoVersicherungen": "Blaues Auto an einer ruhigen Straße.",
+    "photoFinanzen": "Notizbuch, Tasse und Geldbörse auf einem Tisch.",
+    "photoReisen": "Leere Sitzreihe in einem Zug."
+  },
+  "Category": {
+    "partner": "Partner",
+    "fieldsTitle": "Diese Angaben kommen vor",
+    "fieldsLead": "Die Felder helfen Ihnen, das Formular beim Partner zu verstehen. SensGAi schickt die Angaben erst weiter, wenn der Partner das erlaubt und der Link echt ist.",
+    "glossaryTitle": "Wörter",
+    "relatedTitle": "Passende Texte",
+    "windowTitle": "Vergleich beim Partner",
+    "windowMissing": "Das Vergleichsfenster folgt, sobald der Partner-Link steht.",
+    "continue": "Weiter zum Partner",
+    "continueDisabled": "Der Partner-Link folgt.",
+    "example": "Beispiel",
+    "back": "Alle Vergleiche"
+  },
+  "Ratgeber": {
+    "title": "Ratgeber",
+    "lead": "Kurze Texte über Verträge und den Alltag in Deutschland.",
+    "missingArabic": "Dieser Artikel ist noch nicht auf Arabisch verfügbar.",
+    "missingGerman": "Dieser Artikel ist noch nicht auf Deutsch verfügbar.",
+    "empty": "Hier gibt es noch keinen Text."
+  },
+  "Wegweiser": {
+    "title": "Wegweiser",
+    "photoAlt": "Heller Gang in einem öffentlichen Gebäude mit einer Holzbank.",
+    "lead": "Links zu offiziellen Stellen. SensGAi vereinbart keine Termine und füllt keine Anträge aus.",
+    "open": "Seite öffnen",
+    "phone": "Telefon"
+  },
+  "WegweiserGroups": {
+    "gesundheit": "Gesundheit",
+    "behoerden": "Behörden",
+    "arbeit": "Arbeit",
+    "beratung": "Beratung"
+  },
+  "Anfragen": {
+    "title": "Anfragen & Angebote",
+    "photoAlt": "Zwei Menschen sprechen ruhig bei einer Tasse Tee.",
+    "lead": "Hier können Menschen später Hilfe suchen oder anbieten. Das ist noch nicht fertig.",
+    "soon": "Die Übersicht kommt in einem zweiten Schritt. Heute können Sie nur Interesse hinterlassen.",
+    "formTitle": "Interesse mitteilen"
+  },
+  "About": {
+    "title": "Über uns",
+    "photoAlt": "Weg am Rhein in Bonn unter wolkenverhangenem Himmel.",
+    "paragraphs": [
+      "SensGAi Services ist ein Angebot von SensGAi in Bonn.",
+      "Die Seite ist für Menschen in Deutschland, besonders für neue Nachbarn. Texte gibt es auf Deutsch und Arabisch. Die Sätze sind kurz.",
+      "SensGAi ist nur Tippgeber. Wir vergleichen keine Tarife selbst, beraten nicht zu Versicherung oder Geld und schließen keine Verträge.",
+      "Wenn Sie über einen Partner-Link weitergehen, kann SensGAi eine Provision bekommen. Der Preis für Sie wird dadurch nicht höher.",
+      "Anfragen und Angebote zwischen Nutzerinnen und Nutzern sind noch nicht freigeschaltet."
+    ]
+  },
+  "Contact": {
+    "title": "Kontakt",
+    "lead": "Schreiben Sie uns eine kurze Nachricht. Die öffentliche E-Mail-Adresse folgt noch.",
+    "formTitle": "Nachricht"
+  },
+  "ContactForm": {
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "privacy": "Ich habe den Datenschutz gelesen.",
+    "privacyLink": "Datenschutz",
+    "submit": "Nachricht senden",
+    "pending": "Wird gesendet",
+    "success": "Danke. Wir haben die Nachricht bekommen.",
+    "notConfigured": "Der Versand ist noch nicht eingerichtet. Bitte versuchen Sie es später noch einmal.",
+    "sendFailed": "Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es später noch einmal.",
+    "errorName": "Bitte schreiben Sie Ihren Namen.",
+    "errorEmail": "Bitte prüfen Sie die E-Mail-Adresse.",
+    "errorMessage": "Bitte schreiben Sie mindestens einen kurzen Satz.",
+    "errorPrivacy": "Bitte bestätigen Sie den Datenschutz.",
+    "honeypot": "Website"
+  },
+  "InterestForm": {
+    "name": "Name",
+    "email": "E-Mail",
+    "kind": "Was möchten Sie?",
+    "anfrage": "Ich suche Hilfe",
+    "angebot": "Ich möchte Hilfe anbieten",
+    "message": "Kurz beschreiben",
+    "privacy": "Ich habe den Datenschutz gelesen.",
+    "privacyLink": "Datenschutz",
+    "submit": "Interesse senden",
+    "pending": "Wird gesendet",
+    "success": "Danke. Wir haben Ihr Interesse bekommen.",
+    "notConfigured": "Der Versand ist noch nicht eingerichtet. Bitte versuchen Sie es später noch einmal.",
+    "sendFailed": "Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es später noch einmal.",
+    "errorName": "Bitte schreiben Sie Ihren Namen.",
+    "errorEmail": "Bitte prüfen Sie die E-Mail-Adresse.",
+    "errorMessage": "Bitte schreiben Sie mindestens einen kurzen Satz.",
+    "errorPrivacy": "Bitte bestätigen Sie den Datenschutz.",
+    "errorKind": "Bitte wählen Sie eine Möglichkeit.",
+    "honeypot": "Website"
+  },
+  "Impressum": {
+    "title": "Impressum",
+    "paragraphs": [
+      "SensGAi Services ist ein Angebot von SensGAi, Bonn.",
+      "Pflichtangaben: Name der vertretungsberechtigten Person, ladungsfähige Anschrift, Registereintrag und Umsatzsteuer-ID folgen. Diese Seite ist bis dahin ein Entwurf.",
+      "Kontakt per E-Mail: Angabe folgt. Das Formular auf der Kontaktseite ist vorbereitet und sendet erst, wenn der Mail-Dienst eingerichtet ist.",
+      "Verantwortlich für den Inhalt: Angabe folgt.",
+      "SensGAi ist nur Tippgeber. Keine Versicherungsberatung, keine Finanzberatung und keine Vermittlung von Verträgen."
+    ]
+  },
+  "Datenschutz": {
+    "title": "Datenschutz",
+    "paragraphs": [
+      "Verantwortlich ist SensGAi, Bonn. Die ladungsfähige Anschrift folgt im Impressum.",
+      "Diese Website verwendet keine Analyse-Tools, keine Tracking-Pixel und keine Werbe-Cookies. Die Sprache steht in der Adresse, zum Beispiel /de oder /ar. Dafür setzen wir kein Sprach-Cookie.",
+      "Die Darstellung Hell oder Dunkel wird nur in Ihrem Browser gespeichert (localStorage). Das ist keine Weitergabe an uns.",
+      "Beim Aufruf der Seite kann der Hoster technische Verbindungsdaten verarbeiten, etwa IP-Adresse, Zeitpunkt und aufgerufene Seite. Das ist nötig, um die Seite auszuliefern und abzusichern. Geplant ist ein Hosting in der EU.",
+      "Wenn Sie das Kontaktformular oder das Formular für Interesse nutzen, verarbeiten wir Name, E-Mail und Nachricht, um Ihnen zu antworten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b oder lit. f DSGVO. Die Nachricht geht an die Adresse, die in der Server-Konfiguration steht. Ohne diese Konfiguration wird nichts versendet.",
+      "Partner-Links führen auf Seiten anderer Anbieter. Dort gelten deren Regeln. Diese Anbieter können eigene Cookies setzen. SensGAi bindet deren Vergleichsfenster erst ein, wenn ein echter Link vorliegt.",
+      "Sie können Auskunft, Berichtigung, Löschung und Beschwerde bei einer Aufsichtsbehörde verlangen. Schreiben Sie uns über das Kontaktformular, sobald der Versand eingerichtet ist."
+    ]
+  },
+  "Terms": {
+    "title": "Nutzungsbedingungen",
+    "paragraphs": [
+      "Diese Bedingungen gelten für die Nutzung der Website SensGAi Services.",
+      "Die Inhalte erklären Begriffe und verlinken Partner oder Behörden. Sie sind keine Beratung und kein Angebot von SensGAi. Verträge schließen Sie nur mit dem jeweiligen Anbieter.",
+      "Prüfen Sie Preise, Laufzeit und Bedingungen immer auf der Seite des Partners. Ein Bonus gilt oft nur im ersten Jahr.",
+      "Für externe Seiten sind deren Betreiber verantwortlich.",
+      "Die Funktion Anfragen und Angebote zwischen Nutzerinnen und Nutzern ist noch nicht aktiv. Dafür gelten später eigene Regeln.",
+      "Es gilt das Recht der Bundesrepublik Deutschland. Der Gerichtsstand folgt mit den vollständigen Anbieterangaben."
+    ]
+  },
+  "Ads": {
+    "title": "Werbe- und Affiliate-Hinweis",
+    "paragraphs": [
+      "SensGAi Services ist Werbung und ein Hinweisgeber (Tippgeber).",
+      "Wenn Sie über einen Link auf dieser Seite einen Vertrag beim Partner abschließen, kann SensGAi eine Provision erhalten. Für Sie wird der Preis dadurch nicht höher.",
+      "Partner können zum Beispiel CHECK24 oder Tarifcheck sein. Solange kein echter Link hinterlegt ist, steht auf der Seite Link folgt.",
+      "Partnernamen zeigen wir als Text. Logos nutzen wir nur, wenn der Partner das erlaubt.",
+      "Die Reihenfolge der Themen ist keine Empfehlung und keine Beratung. SensGAi vermittelt keine Versicherungen und keine Finanzprodukte.",
+      "Bei Versicherungen und Finanzthemen lesen Sie zusätzlich den Hinweis auf der jeweiligen Seite."
+    ]
+  },
+  "Notices": {
+    "tippgeber": "SensGAi ist nur Tippgeber. Wir beraten nicht und schließen den Vertrag nicht für Sie ab.",
+    "insurance": "Hinweis zu Versicherungen: SensGAi berät nicht zu Versicherungen und vermittelt keinen Vertrag. Der Vergleich und der Abschluss liegen beim Partner.",
+    "finance": "Hinweis zu Finanzthemen: SensGAi berät nicht zu Geldanlagen, Krediten oder Konten und vermittelt keinen Vertrag. Der Vergleich und der Abschluss liegen beim Partner."
+  },
+  "NotFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Diese Adresse gibt es nicht.",
+    "home": "Zur Startseite"
+  }
+}
